@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Harold Navarro</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Peru</h3>
 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve code problems and read technology articles.
+
+- 🌱 I’m currently learning Java and Angular.
+
 - 🔭 I’m currently working on [E-Commerce Wixxer](https://github.com/haroldnc/PF-e-commerce)
 
 - 🌱 I’m currently learning **Docker, Redis, bull package**
