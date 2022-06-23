@@ -7,7 +7,7 @@
 
 - :zap: In my free time, I solve code problems and read technology articles.
 
-- 🌱 I’m currently learning Java and Angular.
+- 🌱 I’m currently learning Docker and Redis.
 
 - 🔭 I’m currently working on [E-Commerce Wixxer](https://github.com/haroldnc/PF-e-commerce)
 
